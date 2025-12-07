@@ -1,0 +1,13 @@
+# Common Python files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Build or dependency folders
+/dist
+/node_modules
